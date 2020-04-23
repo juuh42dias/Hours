@@ -35,7 +35,7 @@ gem "normalize-rails"
 gem "twitter-text" # hashtag parsing
 gem "jquery-atwho-rails", "~> 1.5.4" # autocomplete
 gem "haml-rails"
-gem "audited-activerecord", "~> 4.0"
+gem "audited-activerecord", "~> 4.2"
 gem "paperclip", "~> 6.1.0"
 gem "aws-sdk"
 gem "redcarpet"
